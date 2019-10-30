@@ -6,7 +6,7 @@ Das Programm gibt alle möglichen entschlüsselten Wörter aus und vergleicht (o
 Für jeden Treffer in der Wortliste wird ein Punkt vergeben, dadurch wird ermittelt welches Ergebnis am wahrscheinlichsten ist.
 
 Verwendung:
--> optimalerweise über die Powershell starten: 
+-> optimalerweise über die Powershell starten:<br>
 -> in den Ordner mit dem Programm und der Wortliste wechseln (ddictionary.txt)
 -> PowerSehll starten: Shift + rechte Maustaste -> Power-Shell Fenster hier öffnen
 -> caesar-decode-helper-dictionary.exe aufrufen
